@@ -1,0 +1,9 @@
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/Notepad_Application.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/Notepad_Application_autogen_timestamp_deps.dir
+D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/Notepad_Application_autogen.dir

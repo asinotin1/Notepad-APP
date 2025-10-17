@@ -1,0 +1,22 @@
+# ninja log v5
+516	2916	7823155039885882	CMakeFiles/Notepad_Application.dir/main.cpp.obj	b233b947a2001663
+29	164	7823157627196892	Notepad_Application_autogen/timestamp	f9236ce76263d8e7
+29	164	7823157627196892	Notepad_Application_autogen/mocs_compilation.cpp	f9236ce76263d8e7
+722	1377	7818919891217596	CMakeFiles/Notepad_Application.dir/Notepad_Application_autogen/EWIEGA46WW/qrc_resource.cpp.obj	fa1d171457a0c2e
+3107	3309	7823157660788642	Notepad_Application.exe	6f57bba7f5929cb7
+29	164	7823157627196892	D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Notepad_Application_autogen/timestamp	f9236ce76263d8e7
+29	164	7823157627196892	D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Notepad_Application_autogen/mocs_compilation.cpp	f9236ce76263d8e7
+628	713	7818919884518225	Notepad_Application_autogen/EWIEGA46WW/qrc_resource.cpp	5149164858d62402
+512	2773	7823155038461936	CMakeFiles/Notepad_Application.dir/Notepad_Application_autogen/mocs_compilation.cpp.obj	d3f68c5345898c6e
+628	713	7818919884518225	D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Notepad_Application_autogen/EWIEGA46WW/qrc_resource.cpp	5149164858d62402
+167	3106	7823157658887598	CMakeFiles/Notepad_Application.dir/mainwindow.cpp.obj	788780e734ab770f
+47	4166	7823790131664663	build.ninja	9796173e2a82f82
+49	994	7823790142241417	Notepad_Application_autogen/timestamp	f9236ce76263d8e7
+49	994	7823790142241417	Notepad_Application_autogen/mocs_compilation.cpp	f9236ce76263d8e7
+49	994	7823790142241417	D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Notepad_Application_autogen/timestamp	f9236ce76263d8e7
+49	994	7823790142241417	D:/learnQT/Notepad_Application/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Notepad_Application_autogen/mocs_compilation.cpp	f9236ce76263d8e7
+1012	3013	7823790163250497	CMakeFiles/Notepad_Application.dir/Notepad_Application_autogen/EWIEGA46WW/qrc_resource.cpp.obj	77a177ea3f06091a
+996	6241	7823790195668947	CMakeFiles/Notepad_Application.dir/Notepad_Application_autogen/mocs_compilation.cpp.obj	d93db7b574e5ebe5
+1002	6257	7823790195837180	CMakeFiles/Notepad_Application.dir/main.cpp.obj	31d86bc9ed4842fe
+1007	7571	7823790208980340	CMakeFiles/Notepad_Application.dir/mainwindow.cpp.obj	25811b90aa1454ed
+7572	8521	7823790218406513	Notepad_Application.exe	7a3815987592b2c7
